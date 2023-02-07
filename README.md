@@ -26,3 +26,14 @@ Interactive charts has been formed to show results of data. Below is a summary o
 ## Link
 
 To view the website home page please visit : https://sheel-gandhi.github.io/Plotly_BellyButton_Biodiversity/
+
+## Graphs
+
+Below are the graphs generated using plotly and displayed on the web page.
+
+![graph1](https://user-images.githubusercontent.com/108366412/217156552-a0f2bde6-e53d-49f7-8112-909adcd5a544.png)
+
+![graph2](https://user-images.githubusercontent.com/108366412/217156569-3641382b-77d1-4f03-bfa3-0825221c6b62.png)
+
+![graph3](https://user-images.githubusercontent.com/108366412/217156585-a50f2bb8-9c33-4b49-8079-f444125b3c3b.png)
+
